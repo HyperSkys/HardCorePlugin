@@ -1,0 +1,9 @@
+name: HardCore
+version: ${project.version}
+main: dev.hyperskys.hardcore.HardCore
+api-version: 1.16
+commands:
+  info:
+    description: Info
+  revive:
+    description: Revive player
