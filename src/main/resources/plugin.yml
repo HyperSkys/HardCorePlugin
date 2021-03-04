@@ -1,0 +1,15 @@
+name: HardCore
+version: 2.0
+main: dev.hyperskys.hardcore.HardCore
+api-version: 1.16
+commands:
+  info:
+    description: Info
+    aliases: [hardcore]
+  revive:
+    description: Revive player
+  hcstart:
+    description: Start
+    aliases: [start, startgame, hardcorestart]
+  alive:
+    description: alive
