@@ -1,0 +1,13 @@
+# Hardcore Plugin
+# Version: 2.2 HOTFIX
+# Developed by HyperSkys
+
+prefix: "&4&lHARDCORE &7| "
+death-player-message: "&e$player &fhas just died and can no longer play!"
+start-message: "&fHardcore has started make sure not to die!"
+player-revive: "&fYou just revived &e$target!"
+revive-player-message: "&e$target &fwas revived!"
+hardcore-end: "&fHardcore has stopped!"
+player-dead: "&e$player &fis currently dead!"
+player-alive: "&e$player &fis currently alive!"
+death-message: ""
